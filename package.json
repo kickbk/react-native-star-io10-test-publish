@@ -1,0 +1,47 @@
+{
+  "name": "react-native-star-io10-test-publish",
+  "version": "1.1.0",
+  "description": "react-native-star-io10 is a library for supporting application development for Star Micronics devices.",
+  "main": "index.ts",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kickbk/react-native-star-io10-test-publish.git",
+    "baseUrl": "https://github.com/kickbk/react-native-star-io10-test-publish"
+  },
+  "keywords": [
+    "typescript",
+    "react-native",
+    "printer",
+    "pos",
+    "receipt-printer",
+    "star-micronics"
+  ],
+  "author": {
+    "name": "Star Micronics Co., Ltd.",
+    "email": "sp_tsales@star-m.jp"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/kickbk/react-native-star-io10-test-publish/issues"
+  },
+  "homepage": "https://github.com/kickbk/react-native-star-io10-test-publish",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "@types/react-native": "^0.66.0",
+    "react": "17.0.2",
+    "react-native": "0.66",
+    "react-native-windows": "0.66"
+  },
+  "dependencies": {
+    "@expo/config-plugins": "^4.0.16"
+  }
+}
